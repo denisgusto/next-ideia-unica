@@ -6,7 +6,6 @@ async function tempo(request, response) {
     const subscribersJson = await subscribersResponse.json();
     const subscribers = subscribersJson.total_subscribers;
 
-
     response.json({
         date: dynamicDate.toGMTString(),
         subscribers: subscribers
