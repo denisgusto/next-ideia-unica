@@ -9,6 +9,8 @@ function Home() {
             <h1>Página Inicial</h1>
             <h3>Contador</h3>
             <Contador />
+
+            <pre>Branch de testes.</pre>
         </div>
     )
 }
