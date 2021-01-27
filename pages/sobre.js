@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 /**
- * Sobre
+ * Página 'Sobre'
  */
 function Sobre() {
     return (

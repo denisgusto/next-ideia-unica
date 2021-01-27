@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 /**
- * Home
+ * Página 'Home'
  */
 function Home() {
     return (
